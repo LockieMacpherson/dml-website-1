@@ -4,10 +4,10 @@
     <title>Dragon&#39;s Money Laundering</title>
     <description>Dragon&#39;s Money Laundering is a card game that has minimalistic requirements, yet it provides fun and complex gaming experience for seasoned board-/cardgamers.
 </description>
-    <link>https://irkka.github.io/dml/</link>
-    <atom:link href="https://irkka.github.io/dml/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Sep 2015 14:34:25 +0300</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2015 14:34:25 +0300</lastBuildDate>
+    <link>https://irkka.github.io/dml-website/dml-website/</link>
+    <atom:link href="https://irkka.github.io/dml-website/dml-website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Sep 2015 21:37:58 +0300</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2015 21:37:58 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 17 Sep 2015 18:31:20 +0300</pubDate>
-        <link>https://irkka.github.io/dml/jekyll/update/2015/09/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://irkka.github.io/dml/jekyll/update/2015/09/17/welcome-to-jekyll.html</guid>
+        <link>https://irkka.github.io/dml-website/dml-website/jekyll/update/2015/09/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://irkka.github.io/dml-website/dml-website/jekyll/update/2015/09/17/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
