@@ -1,3 +1,5 @@
 _site
 .sass-cache
 *.swp
+NERD_tree*
+bower_components
