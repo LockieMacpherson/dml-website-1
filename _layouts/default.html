@@ -5,15 +5,23 @@
 
   <body>
 
+    <div id="site">
+
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+    <div class="site-data">
+      <aside id="site-sidebar">
+        <nav id="context-navigation">
+        </nav>
+      </aside>
+      <main id="site-content">
         {{ content }}
-      </div>
+      </main>
     </div>
 
     {% include footer.html %}
+
+    </div>
 
   </body>
 
