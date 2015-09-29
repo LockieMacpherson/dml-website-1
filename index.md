@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
+
 <iframe class="intro_vid" src="http://www.youtube.com/embed/wQmjLV7_4ps" allowfullscreen></iframe>
+
 
 Dragon's Money Laundering is a card game that has minimalistic requirements, yet it provides fun and complex gaming experience.
 
@@ -22,6 +24,7 @@ All feedback is welcome as we can perfect the game to the wishes of the communit
 <!--And remember the catchphrase of DML: "Ei auta itku markkinoilla!"
 Ystävällisin terveisin,-->
 The DML team.
+
 
 Enjoy the DML theme music here:
 <iframe class="music_vid" src="https://www.youtube.com/embed/jsM85iluoRg" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 ---
-layout: rule_page
+layout: page
 title: Rules
 title2: Rules_Main
 
