@@ -4,7 +4,7 @@ email: ilkka.hakkarainen@cs.helsinki.fi
 description: > # this means to ignore newlines until "baseurl:"
   Dragon's Money Laundering is a card game that has minimalistic requirements, yet it provides fun and complex gaming experience for seasoned board-/cardgamers.
 baseurl: "/dml-website" # the subpath of your site, e.g. /blog/
-url: "https://irkka.github.io/dml-website" # the base hostname & protocol for your site
+url: "https://LockieMacpherson.github.io/dml-website" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: Irkka
 
